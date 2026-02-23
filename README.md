@@ -119,3 +119,16 @@ const [contador, setContador] = useState(0);
 - revertir commit 
   - git revert <id-del-commit>
 
+
+
+asfasfasf
+a
+af
+as
+fa
+fas
+f
+as
+fa
+sf
+a
